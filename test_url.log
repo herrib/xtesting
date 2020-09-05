@@ -1,0 +1,1 @@
+(True, 'pattern <script.*\n*\\/script> found in the response - code 200', 'http://www.google.fr')
